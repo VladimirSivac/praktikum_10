@@ -1,0 +1,7 @@
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\obj\Debug\praktikum_10.csproj.AssemblyReference.cache
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\obj\Debug\praktikum_10.csproj.CoreCompileInputs.cache
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\bin\Debug\praktikum_10.exe.config
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\bin\Debug\praktikum_10.exe
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\bin\Debug\praktikum_10.pdb
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\obj\Debug\praktikum_10.exe
+D:\Informatics\praktikum_10\praktikum_10\praktikum_10\obj\Debug\praktikum_10.pdb
